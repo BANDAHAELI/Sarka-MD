@@ -264,7 +264,7 @@ if (cmd === "twit" || cmd === "twitter") {
 }
 
 // yta || song command
-  if (cmd === "play" || cmd === "song") {
+  if (cmd === "yta" || cmd === "song") {
   if (!url) {
     await sendCommandMessage("⚠️ Please provide a song name or a YouTube link!");
     return;
