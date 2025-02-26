@@ -6,8 +6,8 @@
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
+    "SESSION_ID": {Sarkarmd$vjenRj0d
+      "description": "Put the session-id here.'Sarkarmd$vjenRj0d',
       "required": true,
       "value": ""
     },
