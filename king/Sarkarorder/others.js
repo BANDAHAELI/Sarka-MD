@@ -70,7 +70,7 @@ if (cmd === "ping") {
 }
 
 //alive msg
-  if (cmd === "alive") {
+  if (cmd === "alive2") {
     await m.React('⏳'); // React with a loading icon
 
     const aliveMessage = `╭─────────────────◆
